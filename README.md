@@ -3,7 +3,6 @@ Discord bot s korisnim alatima za učenje i praćenje nastave. Ciljana publika s
 
 Ideje za bota:
 - Raspored sati - ping za početak poziva/par minuta prije početka
-- Nasumični odabir za odgovaranje
 - Alat za učenje latinskih riječi
 - Alat za učenje glazbenih razdoblja
 - Praćenje obavijesti iz škole
