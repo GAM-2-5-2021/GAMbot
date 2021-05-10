@@ -9,3 +9,5 @@ Ideje za bota:
 - Praćenje obavijesti iz škole
 - Bot koji evaluira python scriptove
 - Praćenje zadaće i zadataka - dijeljeni razredni database za rokove zadaća
+
+Autor: Toni Kukec, 2.5
