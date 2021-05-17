@@ -1,9 +1,8 @@
 import discord
 from discord.ext import commands
-import io
 
 rjecnik = dict()
-with io.open('/files/lat.txt', 'r', encoding='utf8') as file:
+with open('commands/files/lat.txt', 'r', encoding='utf8') as file:
 	for line in file.read().splitlines():
 		p1, p2 = line.split('$')
 		if ',' in p1:
@@ -18,7 +17,7 @@ class lat(commands.Cog, name="lat"):
 		self.bot = bot
 
 	@commands.command(name="lat")
-	async def lat(self, ctx, str):
+	async def lat(self, ctx, str=None):
 		"""
 		Ponavljanje za odgovaranje iz latinskog - prijevod riječi iz hrvatskog u latinski
 		"""
@@ -26,9 +25,10 @@ class lat(commands.Cog, name="lat"):
 			embed=discord.Embed(description="Error", color=0x42F56C)
 			embed.set_author(name="Moraš upisati riječ!")
 			await ctx.send(embed=embed)
-		embed = discord.Embed(description=f"8{'=' * length}D", color=0x42F56C)
-		embed.set_author(name=f"{member.display_name}'s Dick", icon_url=member.avatar_url)
-		await ctx.send(embed=embed)
+		else:
+			embed = discord.Embed(description=rjecnik.get(str.lower(), 'Riječ nije pronađena'), color=0x42F56C)
+			embed.set_author(name=str.title())
+			await ctx.send(embed=embed)
 		
 def setup(bot):
 	bot.add_cog(lat(bot))

@@ -1,0 +1,148 @@
+graditi, zidati$aedifĭco, 1.
+priča$fabŭla, -ae, f.
+stanovati, naseljavati$habĭto, 1.
+povijest, historija$historia, -ae, f.
+ne znati, ne poznavati, ignorirati$ignōro, 1.
+stanovnik$incŏla, -ae, m.
+hvaliti$laudo, 1.
+pripovijedati, kazivati, reći$narro, 1.
+mornar$nauta, -ae, m.
+ploviti$navĭgo, 1.
+obala, kraj$ora, -ae, f.
+pjesnik$poëta, -ae, m.
+zatim, potom$postea
+često$saepe, adv. (comp. saepius, sup. saepissime)
+imati, držati, nositi$habeo, 2.
+napadati$impugno, 1.
+poslanik$legātus, -i, m.
+opominjati, opomenuti$moneo, 2.
+ubiti$neco, 1.
+nov$novus, 3
+zauzeti, osvojiti$occŭpo, 1.
+kroz, preko$per (+ak.)
+more$pontus, -i, m.
+narod$popŭlus, -i, m.
+moć$potentia, -ae, f.
+rasprostraniti, rasploditi$propāgo, 1.
+Rim$Roma, -ae, f.
+Rimljanin$Romānus, -i, m.
+ali, no$sed
+sav, cijel$totus, tota, totum
+građevina, graditeljsko djelo$aedificium, -ii, n.
+rat$bellum, -i, n.
+s, sa$cum (+abl.)
+spomenik$monumentum, -i, n.
+svijet$mundus, -i, m.
+poznat$notus, nota, notum
+grad, gradina$oppĭdum, -i, n.
+palača, dvor$palatium, -ii, n.
+nakon, poslije$post (+ ak.)
+obala$ripa, -ae, f.
+hram$templum, -i, n.
+vidjeti, paziti, motriti$video, 2.
+drevan, star$antiquus, 3
+slavan, znamenit$clarus, clara, clarum
+pokazati, izjaviti$declāro, 1.
+učenica$discipŭla, -ae, f.
+učenik$discipŭlus, -i, m.
+učiti, učiti se$disco, 3.
+poučavati$doceo, 2.
+latinski$Latīnus, latina, latinum
+čitati, brati, skupljati$lego, 3.
+knjiga$liber, -bri, m.
+jezik$lingua, -ae, f.
+učitelj$magister, -tri, m.
+potreban, nužan$necessarius, necessaria, necessarium
+djevojka, djevojčica$puella, -ae, f.
+dijete, dječak, mladić$puer, -ĕri, m.
+lijep, krasan, slavan$pulcher, -chra, -chrum
+škola, oblik$schola, -ae, f.
+mudra misao, mišljenje$sententia, -ae, f.
+učenje, studij$studium, -ii, n.
+muž, junak, muškarac$vir, viri, m.
+k/ka, prema$ad (+ ak.)
+godina$annus, -i, m.
+sazivati, pozvati$convŏco, 1.
+razoriti, uništiti$deleo, 2.
+tvrd, surov$durus, dura, durum
+sin$filius, -ii, m.
+grčki$Graecus, graeca, graecorum
+ulaziti, ući$intro, 1.
+zid, bedem$murus, -i, m.
+bitka$pugna, -ae, f.
+grabiti, otimati$rapio, 3.
+trojanski$Troiānus, troiana, troianum
+primati, pirmiti, čuti, doznati$accipio, 3.
+zvati, nazivati, proglasiti$appello, 1.
+nebo$coelum, -i, n.
+savjet, vijećanje, vijeće, odluka$consilium, -ii, n.
+nasuprot, naprama$contra (+ ak.)
+voditi, povesti$duco, 3.
+propasti, razor$exitium, -ii, n.
+činiti, raditi$facio, 3.
+sposobnost, vještina$facultas, -ātis, f.
+vjernost$fidelĭtas, -ātis, f.
+kći$filia, -ae, f.
+hrabrost, snaga$fortitūdo, -dĭnis, f.
+poduzeti, početi$incipio, 3.
+velik$magnus, magna, magnum
+vojnik$miles, -ĭtis, m.
+zbog, blizu$propter (+ ak.)
+kralj, vladar$rex, regis, m.
+društvo$sociĕtas, -ātis, f.
+žena, supruga$uxor, -ōris, f.
+doći, dolaziti$venio, 4.
+pobijediti, svladati$vinco, 3.
+djevojka, djevica$virgo, -ĭnis, f.
+pjesma$carmen, -ĭnis, m.
+opisati, opisivati$descrībo, 3.
+osnovati, utemeljiti$condo, 3.
+obitelj$familia, -ae, f.
+rod, koljeno, pleme$genus, -ĕris, n.
+mnogi, mnogobrojan$multus, multa, multum
+ime$nomen, -ĭnis, n.
+djelo, posao$opus, -ĕris, n.
+potomstvo$posterĭtas, -ātis, f.
+kraljevati, vladati$regno, 1.
+stoljeće$saecŭlum, -i, n.
+vrlina, muževnost$virtus, -ūtis, f.
+rijeka$amnis, -is, m.
+voda$aqua, -ae, f.
+padati, pasti, poginuti$cado, 3.
+zatvoriti, zaključati$claudo, 3.
+spoznati, opaziti, doznati$cognosco, 3.
+brežuljak$collis, -is, m.
+uvjet, pogodba$condicio, -onis, f.
+željeti, žudjeti$cupio, 3.
+bog$deus, -i, m.
+umoran$fessus, 3
+dijete$infans, -antis, m./f.
+mjesec$mensis, -is, m.
+jadan, bijedan$miser, -ĕra, -ĕrum
+oko$ocŭlus, -i, m.
+rađati, roditi$pario, 3.
+noga, stopa$pes, pedis, m.
+staviti, položiti$pono, 3.
+pred, mjesto$pro (+ ab.)
+blizu$prope (+ ak.)
+svet$sacer, sacra, sacrum
+rob$servus, -i, m.
+san$somnium, -ii, n.
+bojati se, plašiti se$timeo, 2.
+tad, zatim$tum
+oštar, žestok$acer, acris, acre
+građanski$civīlis, civile
+vjeran$fidēlis, fidele
+hrabar$fortis, forte
+težak$gravis, grave
+besmrtan$immortālis, immortale
+mudar$sapiens, sapientis
+razborit$prudens, prudentis
+senat$senātus, -us, m.
+vojska$exercĭtus, -us, m.
+ruka, četa$manus, -us, f.
+rog, krilo vojske$cornu, -us, n.
+dan$dies, -ei, f.
+vjernost$fides, -ei, f.
+nada$spes, -ei, f.
+stvar, zgoda$res, -ei, f.
