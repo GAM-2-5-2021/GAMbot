@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 
+# Pretvara čudnu listu riječi u dict()
 rjecnik = dict()
 with open('commands/files/lat.txt', 'r', encoding='utf8') as file:
 	for line in file.read().splitlines():
@@ -19,13 +20,16 @@ class lat(commands.Cog, name="lat"):
 	@commands.command(name="lat")
 	async def lat(self, ctx, str=None):
 		"""
-		Ponavljanje za odgovaranje iz latinskog - prijevod riječi iz hrvatskog u latinski
+		Ponavljanje za odgovaranje iz latinskog
+		- prijevod riječi iz hrvatskog u latinski
 		"""
 		if not str:
-			embed=discord.Embed(description="Error", color=0x42F56C)
+			# Korisnik nije upisao riječ
+			embed=discord.Embed(description="Error", color=0x8b0000)
 			embed.set_author(name="Moraš upisati riječ!")
 			await ctx.send(embed=embed)
 		else:
+			# Dohvaća riječ iz rječnika, ako je nema šalje drugi dio get komande		
 			embed = discord.Embed(description=rjecnik.get(str.lower(), 'Riječ nije pronađena'), color=0x42F56C)
 			embed.set_author(name=str.title())
 			await ctx.send(embed=embed)

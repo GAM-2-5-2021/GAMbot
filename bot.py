@@ -1,7 +1,14 @@
 import os
 import discord
 from discord.ext import commands
-bot = commands.Bot(command_prefix="#")
+
+intents = discord.Intents.default()
+intents.guilds = True
+intents.reactions = True
+intents.members = True
+
+bot = commands.Bot(command_prefix="#", intents=intents)
+
 
 #nedam token
 with open('token') as f:
@@ -10,20 +17,21 @@ with open('token') as f:
 @bot.event
 async def on_ready():
 	print("wassup, the bot is ready")
+	await status_task()
 
-async def status_task():
+async def status_task(): # Samo mijenja status
 	await bot.change_presence(activity=discord.Game("GAMBot - #help"))
 bot.remove_command("help")
 
 @bot.event
-async def on_command_completion(ctx):
+async def on_command_completion(ctx): # Logging - ispisuje svaku aktiviranu komandu
 	fullCommandName = ctx.command.qualified_name
 	split = fullCommandName.split(" ")
 	executedCommand = str(split[0])
 	print(
 		f"Executed {executedCommand} command in {ctx.guild.name} (ID: {ctx.message.guild.id}) by {ctx.message.author} (ID: {ctx.message.author.id})")
 
-@bot.event
+@bot.event # Automatsko handleanje čestih greški
 async def on_command_error(context, error):
 	if isinstance(error, commands.CommandOnCooldown):
 		embed = discord.Embed(
@@ -44,7 +52,7 @@ async def on_command_error(context, error):
 	
 	raise error
 
-if __name__ == "__main__":
+if __name__ == "__main__": # Učitavanje cogova (komandi)
 	for file in os.listdir("./commands"):
 		if file.endswith(".py"):
 			extension = file[:-3]
